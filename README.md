@@ -14,10 +14,10 @@ This repository contains a quiz that allows users to answer multiple-choice ques
 - JavaScript
 - HTML
 - CSS
--Tailwind
--React
--Vite.js
--DaisyUI
+- Tailwind
+- React
+- Vite.js
+- DaisyUI
 
 ## Live Demo
 
