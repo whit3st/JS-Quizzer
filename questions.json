@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "question": "Which method is used to add one or more elements to the end of an array and returns the new length of the array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()",
+    "description": "The push() method adds one or more elements to the end of an array and returns the new length of the array."
+  },
+  {
+    "id": 2,
+    "question": "Which method is used to return a new array that contains a specified number of elements from the start of an array?",
+    "options": ["slice()", "splice()", "concat()", "join()"],
+    "answer": "slice()",
+    "description": "The slice() method returns a new array that contains a specified number of elements from the start of an array."
+  },
+  {
+    "id": 3,
+    "question": "Which method is used to remove the last element from an array and returns that element?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "pop()",
+    "description": "The pop() method removes the last element from an array and returns that element."
+  },
+  {
+    "id": 4,
+    "question": "Which method is used to return the first element that matches a specified condition in an array?",
+    "options": ["find()", "filter()", "some()", "every()"],
+    "answer": "find()",
+    "description": "The find() method returns the value of the first element that matches a specified condition in an array."
+  },
+  {
+    "id": 5,
+    "question": "Which method is used to remove one or more elements from an array and optionally replace them with new elements?",
+    "options": ["slice()", "splice()", "concat()", "join()"],
+    "answer": "splice()",
+    "description": "The splice() method removes one or more elements from an array and optionally replaces them with new elements."
+  },
+  {
+    "id": 6,
+    "question": "Which method is used to convert a string to an array?",
+    "options": ["split()", "join()", "reverse()", "toString()"],
+    "answer": "split()",
+    "description": "The split() method is used to split a string into an array of substrings."
+  },
+  {
+    "id": 7,
+    "question": "Which method is used to sort the elements of an array?",
+    "options": ["sort()", "reverse()", "concat()", "slice()"],
+    "answer": "sort()",
+    "description": "The sort() method is used to sort the elements of an array."
+  },
+  {
+    "id": 8,
+    "question": "Which method is used to return the index of the first element that matches a specified condition in an array?",
+    "options": ["findIndex()", "indexOf()", "lastIndexOf()", "includes()"],
+    "answer": "findIndex()",
+    "description": "The findIndex() method returns the index of the first element that matches a specified condition in an array."
+  },
+  {
+    "id": 9,
+    "question": "Which method is used to check if an array contains a specified element?",
+    "options": ["find()", "filter()", "some()", "includes()"],
+    "answer": "includes()",
+    "description": "The includes() method is used to check if an array contains a specified element and returns true if does."
+  },
+  {
+    "id": 11,
+    "question": "Which method is used to create a new array from an existing array by applying a function to each element?",
+    "options": ["map()", "reduce()", "forEach()", "filter()"],
+    "answer": "map()",
+    "description": "The map() method creates a new array from an existing array by applying a function to each element and returns the result."
+  },
+  {
+    "id": 12,
+    "question": "Which method is used to join all elements of an array into a string?",
+    "options": ["join()", "toString()", "concat()", "slice()"],
+    "answer": "join()",
+    "description": "The join() method is used to join all elements of an array into a string."
+  },
+  {
+    "id": 13,
+    "question": "Which method is used to apply a function against each element of an array and reduce the array to a single value?",
+    "options": ["map()", "reduce()", "forEach()", "filter()"],
+    "answer": "reduce()",
+    "description": "The reduce() method applies a function against each element of an array and reduces the array to a single value."
+  },
+  {
+    "id": 14,
+    "question": "Which method is used to return a new array that contains the elements of two or more arrays?",
+    "options": ["concat()", "slice()", "splice()", "reverse()"],
+    "answer": "concat()",
+    "description": "The concat() method is used to return a new array that contains the elements of two or more arrays."
+  },
+  {
+    "id": 15,
+    "question": "Which method is used to return a new string that contains a specified number of copies of the original string?",
+    "options": ["repeat()", "replace()", "match()", "search()"],
+    "answer": "repeat()",
+    "description": "The repeat() method is used to return a new string that contains a specified number of copies of the original string."
+  },
+  {
+    "id": 16,
+    "question": "Which method is used to add one or more elements to the beginning of an array and returns the new length of the array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "unshift()",
+    "description": "The unshift() method adds one or more elements to the beginning of an array and returns the new length of the array."
+  },
+  {
+    "id": 17,
+    "question": "Which method is used to remove the last element from an array and returns that element?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "pop()",
+    "description": "The pop() method removes the last element from an array and returns that element."
+  },
+  {
+    "id": 18,
+    "question": "Which method is used to remove the first element from an array and returns that element?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "shift()",
+    "description": "The shift() method removes the first element from an array and returns that element."
+  },
+  {
+    "id": 19,
+    "question": "Which method is used to add one or more elements to the end of an array and returns the new length of the array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()",
+    "description": "The push() method adds one or more elements to the end of an array and returns the new length of the array."
+  },
+  {
+    "id": 20,
+    "question": "Which method is used to determine whether an array includes a certain element, returning true or false as appropriate?",
+    "options": ["includes()", "indexOf()", "find()", "some()"],
+    "answer": "includes()",
+    "description": "The includes() method is used to determine whether an array includes a certain element, returning true or false as appropriate."
+  },
+  {
+    "id": 21,
+    "question": "Which method is used to return a new string with a specified number of copies of the original string?",
+    "options": ["repeat()", "replace()", "slice()", "split()"],
+    "answer": "repeat()",
+    "description": "The repeat() method returns a new string with a specified number of copies of the original string."
+  },
+  {
+    "id": 22,
+    "question": "Which method is used to convert a string to an array of substrings, and returns the new array?",
+    "options": ["repeat()", "replace()", "slice()", "split()"],
+    "answer": "split()",
+    "description": "The split() method is used to convert a string to an array of substrings, and returns the new array."
+  },
+  {
+    "id": 23,
+    "question": "Which method is used to remove whitespace from both ends of a string?",
+    "options": ["trim()", "toLowerCase()", "toUpperCase()", "substring()"],
+    "answer": "trim()",
+    "description": "The trim() method removes whitespace from both ends of a string."
+  },
+  {
+    "id": 24,
+    "question": "Which method is used to convert a string to uppercase letters?",
+    "options": ["trim()", "toLowerCase()", "toUpperCase()", "substring()"],
+    "answer": "toUpperCase()",
+    "description": "The toUpperCase() method converts a string to uppercase letters."
+  },
+  {
+    "id": 25,
+    "question": "Which method is used to return the characters in a string between two specified indices, and returns the new string?",
+    "options": ["trim()", "toLowerCase()", "toUpperCase()", "substring()"],
+    "answer": "substring()",
+    "description": "The substring() method returns the characters in a string between two specified indices, and returns the new string."
+  },
+  {
+    "id": 26,
+    "question": "Which method is used to return the first index at which a specified element can be found in an array, or -1 if it is not present?",
+    "options": ["find()", "filter()", "indexOf()", "map()"],
+    "answer": "indexOf()",
+    "description": "The indexOf() method is used to return the first index at which a specified element can be found in an array, or -1 if it is not present."
+  },
+  {
+    "id": 27,
+    "question": "Which method is used to create a new array with all elements that pass the test implemented by the provided function?",
+    "options": ["find()", "filter()", "indexOf()", "map()"],
+    "answer": "filter()",
+    "description": "The filter() method is used to create a new array with all elements that pass the test implemented by the provided function."
+  },
+  {
+    "id": 28,
+    "question": "Which method is used to create a new array with the results of calling a provided function on every element in the calling array?",
+    "options": ["find()", "filter()", "indexOf()", "map()"],
+    "answer": "map()",
+    "description": "The map() method is used to create a new array with the results of calling a provided function on every element in the calling array."
+  },
+  {
+    "id": 29,
+    "question": "Which method is used to return the value of the first element in an array that satisfies the provided testing function, or undefined if no such element is found?",
+    "options": ["find()", "filter()", "indexOf()", "map()"],
+    "answer": "find()",
+    "description": "The find() method is used to return the value of the first element in an array that satisfies the provided testing function, or undefined if no such element is found."
+  },
+  {
+    "id": 30,
+    "question": "Which method is used to join all elements of an array into a string, using a specified separator between each element?",
+    "options": ["concat()", "join()", "reverse()", "slice()"],
+    "answer": "join()",
+    "description": "The join() method is used to join all elements of an array into a string, using a specified separator between each element."
+  },
+  {
+    "id": 31,
+    "question": "Which method is used to remove the last element from an array and return that element?",
+    "options": ["pop()", "push()", "shift()", "unshift()"],
+    "answer": "pop()",
+    "description": "The pop() method is used to remove the last element from an array and return that element."
+  },
+  {
+    "id": 32,
+    "question": "Which method is used to add one or more elements to the end of an array and returns the new length of the array?",
+    "options": ["pop()", "push()", "shift()", "unshift()"],
+    "answer": "push()",
+    "description": "The push() method is used to add one or more elements to the end of an array and returns the new length of the array."
+  },
+  {
+    "id": 33,
+    "question": "Which method is used to remove the first element from an array and return that element?",
+    "options": ["pop()", "push()", "shift()", "unshift()"],
+    "answer": "shift()",
+    "description": "The shift() method is used to remove the first element from an array and return that element."
+  },
+  {
+    "id": 34,
+    "question": "Which method is used to add one or more elements to the beginning of an array and returns the new length of the array?",
+    "options": ["pop()", "push()", "shift()", "unshift()"],
+    "answer": "unshift()",
+    "description": "The unshift() method is used to add one or more elements to the beginning of an array and returns the new length of the array."
+  },
+  {
+    "id": 35,
+    "question": "Which method is used to sort the elements of an array in place and returns the sorted array?",
+    "options": ["sort()", "reverse()", "concat()", "slice()"],
+    "answer": "sort()",
+    "description": "The sort() method is used to sort the elements of an array in place and returns the sorted array."
+  },
+  {
+    "id": 36,
+    "question": "Which method is used to reverse the order of the elements in an array and returns the reversed array?",
+    "options": ["sort()", "reverse()", "concat()", "slice()"],
+    "answer": "reverse()",
+    "description": "The reverse() method is used to reverse the order of the elements in an array and returns the reversed array."
+  },
+  {
+    "id": 37,
+    "question": "Which method is used to join all elements of an array into a string and returns the string?",
+    "options": ["join()", "concat()", "slice()", "indexOf()"],
+    "answer": "join()",
+    "description": "The join() method is used to join all elements of an array into a string and returns the string."
+  },
+  {
+    "id": 38,
+    "question": "Which method is used to search for a specified value in an array and returns the index of the first occurrence (or -1 if not found)?",
+    "options": ["find()", "includes()", "indexOf()", "lastIndexOf()"],
+    "answer": "indexOf()",
+    "description": "The indexOf() method is used to search for a specified value in an array and returns the index of the first occurrence (or -1 if not found)."
+  },
+  {
+    "id": 39,
+    "question": "Which method is used to create a new array with all elements that pass the test implemented by the provided function?",
+    "options": ["filter()", "map()", "reduce()", "slice()"],
+    "answer": "filter()",
+    "description": "The filter() method is used to create a new array with all elements that pass the test implemented by the provided function."
+  },
+  {
+    "id": 40,
+    "question": "Which method is used to create a new array with the results of calling a provided function on every element in the calling array?",
+    "options": ["filter()", "map()", "reduce()", "slice()"],
+    "answer": "map()",
+    "description": "The map() method is used to create a new array with the results of calling a provided function on every element in the calling array."
+  },
+  {
+    "id": 41,
+    "question": "Which method is used to add new elements to the end of an array and returns the new length of the array?",
+    "options": ["push()", "unshift()", "concat()", "slice()"],
+    "answer": "push()",
+    "description": "The push() method is used to add new elements to the end of an array and returns the new length of the array."
+  },
+  {
+    "id": 42,
+    "question": "Which method is used to remove the last element from an array and returns the removed element?",
+    "options": ["pop()", "shift()", "splice()", "slice()"],
+    "answer": "pop()",
+    "description": "The pop() method is used to remove the last element from an array and returns the removed element."
+  },
+  {
+    "id": 43,
+    "question": "Which method is used to add new elements to the beginning of an array and returns the new length of the array?",
+    "options": ["push()", "unshift()", "concat()", "slice()"],
+    "answer": "unshift()",
+    "description": "The unshift() method is used to add new elements to the beginning of an array and returns the new length of the array."
+  },
+  {
+    "id": 44,
+    "question": "Which method is used to remove the first element from an array and returns the removed element?",
+    "options": ["pop()", "shift()", "splice()", "slice()"],
+    "answer": "shift()",
+    "description": "The shift() method is used to remove the first element from an array and returns the removed element."
+  },
+  {
+    "id": 45,
+    "question": "Which method is used to return a new array with the specified start and end index (end index not included)?",
+    "options": ["concat()", "slice()", "splice()", "reverse()"],
+    "answer": "slice()",
+    "description": "The slice() method is used to return a new array with the specified start and end index (end index not included)."
+  }
+]
