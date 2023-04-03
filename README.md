@@ -21,7 +21,7 @@ This repository contains a quiz that allows users to answer multiple-choice ques
 
 ## Live Demo
 
-[question-app-alican-akyildiz.vercel.app]
+[Demo](https://question-app-alican-akyildiz.vercel.app)
 
 ## Questions
 
