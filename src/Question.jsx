@@ -32,7 +32,7 @@ export default function Question({ questions }) {
   }
 
   return (
-    <div className="flex flex-col p-3 rounded-lg h-[500px] max-w-[600px] shadow-md gap-5 relative bg-gradient-to-b from-gray-700 to-gray-900">
+    <div className="flex flex-col px-5 py-8 rounded-lg h-[500px] max-w-[600px] shadow-md gap-5 relative bg-gradient-to-b from-gray-700 to-gray-900">
       <h1 className="font-semibold text-lg sm:text-xl mb-10">
         {questions[currentQuestion].question}
       </h1>
