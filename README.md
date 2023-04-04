@@ -25,7 +25,7 @@ This repository contains a quiz that allows users to answer multiple-choice ques
 
 ## Questions
 
-The quiz questions are stored in a JSON file located in the `data` directory. Each question object in the JSON file includes a question, a list of options, the correct answer, and an explanation of the correct answer.
+The quiz questions are stored in a JSON file located in the `public` directory and `questions.json` file. Each question object in the JSON file includes a question, a list of options, the correct answer, and an explanation of the correct answer.
 
 ## Contributing
 
