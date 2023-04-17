@@ -1,6 +1,7 @@
 # JS Quizzer
 
 This repository contains a quiz that allows users to answer multiple-choice questions about Javascript methods and get immediate feedback on their answers.
+Questions are created using ChatGPT!
 
 ## Features
 
