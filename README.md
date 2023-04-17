@@ -12,12 +12,9 @@ Questions are created using ChatGPT!
 
 ## Technologies Used
 
-- JavaScript
-- HTML
-- CSS
-- Tailwind
 - React
 - Vite.js
+- Tailwind
 - DaisyUI
 
 ## Live Demo
